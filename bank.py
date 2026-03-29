@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('bank-additional-full.csv')
+df = pd.read_csv('bank.csv')
 st.set_page_config(page_title='Real Time Science Dashboard',page_icon='✅',layout="wide")
 
 #DASHBOARD TITLE
